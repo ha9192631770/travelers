@@ -19,27 +19,24 @@ A [brief one-line description of what this project is].
 ### Installation
 
 1. Clone the repository
-```bash
+
    git clone https://github.com/ha9192631770/travelers.git
    cd travelers
-```
+
 
 2. Install dependencies
-```bash
+
    npm install
-```
+
 
 3. Run the development server
-```bash
+
    npm run dev
-```
+
    The app will be available at `http://localhost:5174` .
 
 ### Build for Production
 
-```bash
-npm run build
-```
 
 ## Live Demo
 
