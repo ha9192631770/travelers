@@ -18,17 +18,14 @@ const Packages = () => {
             </div>
 
 
-            {/* Destinations */}
             <div className="flex w-full flex-col gap-[10px] md:aspect-[1097/663.49] md:flex-row md:gap-[20px] lg:gap-[30px] xl:gap-[40px]">
-                {/* Left Large Card */}
                 <DestinationCard
                     destination={featured}
                     className="w-full aspect-[644/663] shrink-0 md:w-[37.5%] md:aspect-auto"
                 />
 
-                {/* Right Column */}
                 <div className="flex w-full flex-col gap-[10px] md:h-full md:justify-between md:gap-0">
-                    {/* Top Two Cards */}
+                
                     <div className="flex flex-col gap-[10px] md:flex-row md:gap-[20px] lg:gap-[30px] xl:gap-[40px]">
                         <DestinationCard
                             destination={grandPalace}
@@ -41,7 +38,6 @@ const Packages = () => {
                         />
                     </div>
 
-                    {/* Bottom Wide Card */}
                     <DestinationCard
                         destination={padarIsland}
                         className="w-full aspect-[644.92/353.85]"

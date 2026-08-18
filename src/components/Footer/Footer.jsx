@@ -65,7 +65,6 @@ const Footer = () => {
                     </div>
                 </div>
 
-                {/* Top Destination */}
                 <div>
                     <div className="text-[#E1F0F0] md:mb-[33px] mb-[15px]  font-normal text-[18.11px] leading-[23.62px] tracking-normal align-middle capitalize">Top Destination</div>
 
@@ -80,7 +79,6 @@ const Footer = () => {
                     </ul>
                 </div>
 
-                {/* Useful Links */}
                 <div>
                     <h3 className="text-[#E1F0F0] font-normal text-[18.11px] leading-[23.62px] tracking-normal align-middle capitalize md:mb-[33px] mb-[15px] ">
                         Useful Links
@@ -99,7 +97,7 @@ const Footer = () => {
                         ))}
                     </ul>
                 </div>
-                {/* Hot Travel Package */}
+                
                 <div>
                     <h3 className="text-[#E1F0F0] font-normal text-[18.11px] leading-[23.62px] tracking-normal align-middle capitalize md:mb-[33px] mb-[15px] ">
                         Hot Travel Package
@@ -132,7 +130,6 @@ const Footer = () => {
                 </div>
             </div>
 
-            {/* Legal Links */}
             <div className="flex flex-row md:mt-0 mt-8 w-[70.31%] self-center items-start px-[11.81px] gap-[30.51px] pb-[50.93px]">
                 {footerLegalLinks.map((legalLink) => (
                     <Link

@@ -13,9 +13,9 @@ import HeroGuestIcon from "../../assets/icons/heroGuestIcon.svg";
 const Hero = () => {
     return (
         <section>
-            {/* Hero Container */}
+            
             <div className="my-[107px] max-md:bg-transparent xl:w-[85.98%] md:w-[90%] w-[95%] justify-self-center">
-                {/* Image Container */}
+            
                 <div className="relative aspect-[1316.21/630] rounded-[40px]">
                     <img
                         src={HeroImage}
@@ -31,8 +31,6 @@ const Hero = () => {
                                 "linear-gradient(90deg, rgba(0, 0, 0, 0.61) 0%, rgba(0, 0, 0, 0.28) 100%)",
                         }}
                     />
-
-                    {/* Left Content */}
 
                     <div className="absolute left-[20px] md:left-[50px] lg:left-[96] xl:left-[118px] [@media(min-width:1450px)]:top-[79px] top-[20px] lg:top-[40px] z-10 flex w-[45%] flex-col">
                         <Button
@@ -56,7 +54,6 @@ const Hero = () => {
                         </Button>
                     </div>
 
-                    {/* Social Links */}
                     <div className="absolute xl:right-[35.25px] right-[15px] [@media(min-width:1450px)]:top-[154.5px]  top-[20px] lg:top-[50px] xl:top-[100px] z-10 flex flex-col items-center gap-[8px] xl:gap-[20px]">
                         <img src={HeroFB} alt="Facebook" className="max-sm:w-7 max-sm:h-7" />
 
@@ -72,8 +69,6 @@ const Hero = () => {
                             </span>
                         </div>
                     </div>
-
-                    {/* Search Form */}
 
                     <div className="relative  max-md:py-4  max-md:mt-4 md:absolute md:left-1/2 md:top-full z-20 flex md:flex-row flex-col md:h-[172px] w-full md:w-[83.3%] md:-translate-x-1/2 md:-translate-y-1/2 items-center justify-between rounded-[24px] bg-[#FFFFFFDE] px-[44px] shadow-[0px_2px_4px_0px_#00000040] backdrop-blur-[40.13px]">
 
