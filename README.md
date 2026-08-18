@@ -5,7 +5,7 @@ A [brief one-line description of what this project is].
 ## Tech Stack
 
 - React.js
-- [Vite / Create React App — whichever you used]
+- Vite 
 - Tailwind CSS
 - React Router
 
@@ -13,7 +13,7 @@ A [brief one-line description of what this project is].
 
 ### Prerequisites
 
-- Node.js (v18+ recommended)
+- Node.js
 - npm or yarn
 
 ### Installation
@@ -43,7 +43,7 @@ npm run build
 
 ## Live Demo
 
-[Your Vercel URL once deployed]
+https://travelers-orcin.vercel.app/
 
 ## Project Structure
 
@@ -51,7 +51,7 @@ npm run build
 src/
   components/
     common/       # reusable components (cards, buttons, etc.)
-    layout/       # header, footer, navigation
+    layout/       # header, footer
     sections/     # page sections
   constants/      # static data for components
   assets/         # images, icons, fonts
