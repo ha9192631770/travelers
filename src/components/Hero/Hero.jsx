@@ -70,7 +70,7 @@ const Hero = () => {
                         </div>
                     </div>
 
-                    <div className="relative  max-md:py-4  max-md:mt-4 md:absolute md:left-1/2 md:top-full z-20 flex md:flex-row flex-col md:h-[172px] w-full md:w-[83.3%] md:-translate-x-1/2 md:-translate-y-1/2 items-center justify-between rounded-[24px] bg-[#FFFFFFDE] px-[44px] shadow-[0px_2px_4px_0px_#00000040] backdrop-blur-[40.13px]">
+                    <div className="relative  max-md:py-4  max-md:mt-4 md:absolute md:left-1/2 md:top-full z-20 flex md:flex-row flex-col md:h-[172px] w-full md:w-[83.3%] md:-translate-x-1/2 md:-translate-y-1/2 items-center justify-between rounded-[24px] bg-[#FFFFFFDE] px-[12px] sm:px-[44px] shadow-[0px_2px_4px_0px_#00000040] backdrop-blur-[40.13px]">
 
                         <div className="flex w-[90%] sm:w-[50%] md:w-[18.96%] flex-col">
                             <label className="mb-[10px] font-['Inter'] text-[18.52px] font-normal text-[#2D3434] leading-[24.69px] tracking-normal align-middle">
