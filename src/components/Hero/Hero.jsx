@@ -14,7 +14,7 @@ const Hero = () => {
     return (
         <section>
             
-            <div className="my-[107px] max-md:bg-transparent xl:w-[85.98%] md:w-[90%] w-[95%] justify-self-center">
+            <div className="sm:my-[50px] my-[24px] lg:my-[107px] max-md:bg-transparent xl:w-[85.98%] md:w-[90%] w-[95%] justify-self-center">
             
                 <div className="relative aspect-[1316.21/630] rounded-[40px]">
                     <img

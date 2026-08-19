@@ -12,7 +12,7 @@ const Packages = () => {
                 <span className="font-['Inter'] text-[21px] text-[#3F4579] font-normal leading-[30px] tracking-normal align-middle">
                     Packages
                 </span>
-                <h2 className="font-['El_Messiri'] text-[16px] sm:text-[20px] md:text-[32px] xl:text-[48px] font-normal leading-[60px] tracking-normal align-middle capitalize text-[#2D3434]">
+                <h2 className="font-['El_Messiri'] text-[16px] sm:text-[20px] md:text-[32px] xl:text-[48px] font-normal leading-[18px] sm:leading-[36px] lg:leading-[60px] tracking-normal align-middle capitalize text-[#2D3434]">
                     Popular Destinations
                 </h2>
             </div>
