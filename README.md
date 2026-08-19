@@ -33,7 +33,7 @@ A [brief one-line description of what this project is].
 
    npm run dev
 
-   The app will be available at `http://localhost:5174` .
+   The app will be available at `http://localhost:5173` .
 
 ### Build for Production
 

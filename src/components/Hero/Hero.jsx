@@ -34,7 +34,7 @@ const Hero = () => {
 
                     <div className="absolute left-[20px] md:left-[50px] lg:left-[96] xl:left-[118px] [@media(min-width:1450px)]:top-[79px] top-[20px] lg:top-[40px] z-10 flex w-[45%] flex-col">
                         <Button
-                            className="lg:mb-[25px] sm:mb-[10px] mb-[4px] flex  sm:h-[40px] h-[30px] lg:h-[46px]  [@media(min-width:1450px)]:w-[29.5%] md:w-[40%] sm:w-[70%] w-[85%] items-center justify-center rounded-[50px] border border-[#FFFFFF36] bg-[#FFFFFF0D] font-['Karla'] text-center text-[12px] xl:text-[16px] font-medium leading-[24px] tracking-[-0.2px] text-white"
+                            className="lg:mb-[25px] sm:mb-[10px] mb-[4px] flex  sm:h-[40px] h-[30px] lg:h-[46px]  [@media(min-width:1450px)]:w-[29.5%] md:w-[40%] sm:w-[70%] w-[75%] items-center justify-center rounded-[50px] border border-[#FFFFFF36] bg-[#FFFFFF0D] font-['Karla'] text-center text-[10px] sm:text-[12px] lg:text-[16px] font-medium leading-[24px] tracking-[-0.2px] text-white"
                         >
                             Feel The Experience
                         </Button>
@@ -48,7 +48,7 @@ const Hero = () => {
                         </h1>
 
                         <Button
-                            className="flex mt-[4px] sm:mt-[10px] lg:mt-[20px] xl:mt-[40px] lg:h-[53px] sm:h-[40px] h-[30px] lg:w-[27%]  md:w-[35%] sm:w-[65%] w-[75%]  items-center justify-center rounded-[50px] border border-white bg-white font-['Karla'] xl:text-[16px] text-[12px] font-medium leading-[24px] tracking-[-0.2px] text-black"
+                            className="flex mt-[4px] sm:mt-[10px] lg:mt-[20px] xl:mt-[40px] xl:h-[53px] md:h-[36px] h-[30px] lg:w-[27%]  md:w-[35%] sm:w-[65%] w-[65%]  items-center justify-center rounded-[50px] border border-white bg-white font-['Karla'] xl:text-[16px] lg:text-[14px] sm:text-[12px]  text-[10px] font-medium leading-[24px] tracking-[-0.2px] text-black"
                         >
                             GET STARTED
                         </Button>
